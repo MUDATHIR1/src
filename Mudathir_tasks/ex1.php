@@ -8,7 +8,7 @@
 <body>
   <h3>3.1 Write PHP code to output the following message:
     Hello world! My name is "David"
-</h3>  
+</h3>
 <?php
 echo "Hello world! My name is \"David\"";
 ?>
