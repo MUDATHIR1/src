@@ -25,16 +25,16 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link" aria-current="page" href="#">Home</a>
+          <a class="nav-link" aria-current="page" href="http://localhost:81/src/Mudathir_tasks/ex1.php">Link 1</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
+          <a class="nav-link" href="http://localhost:81/src/Mudathir_task2/new.php#">Link 2</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Link1</a>
+          <a class="nav-link" href="#">Link3</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Link2</a>
+          <a class="nav-link" href="#">Link4</a>
         </li>
         
       </ul>
