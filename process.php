@@ -5,5 +5,5 @@
 $Fname = $_post["Fname"];
 $Fname = $_post["Lname"];
 
-echo "Hello " . $Fname $Lname, " You are welcome to my site.";
+echo "Hello " . $Fname " " . $Lname, . " You are welcome to my site.";
 ?>
