@@ -14,10 +14,9 @@ collect the user’s Firstname and Lastname.
 ' You are welcome to my site.” inside an h3</h3>
 
 <form method="post" action="process.php">
-Fname: <input type="text" Fname = "Fisrtname" required> <br><br>
-Lname: <input type="text" Lname = "Lastname" required> <br><br>
+Fname: <input type="text" name="Fisrtname" required> <br><br>
+Lname: <input type="text" name="Lastname" required> <br><br>
 <input type="submit" value="submit">
 </form>
 
 <?php include 'footer.php'?>
-
