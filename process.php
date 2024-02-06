@@ -5,7 +5,7 @@ include 'header.php';
 $Fname = $_post["Fname"];
 $Fname = $_post["Lname"];
 
-echo "Hello " . $Fname, $Lname, <br>" You are welcome to my site.";
+echo "Hello " . $Fname, $Lname, "<br> You are welcome to my site.";
 
 include 'footer.php';
 ?>
