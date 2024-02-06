@@ -1,4 +1,3 @@
-<?php include 'header.php'?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,6 +6,7 @@
     <title>Exercise 1: Getting Started with PHP - Mudathir</title>
 </head>
 <body>
+<?php include 'header.php'?>
   <h3>3.1 Write PHP code to output the following message:
     Hello world! My name is "David"
 </h3>
@@ -62,6 +62,6 @@ $g3 = 5;
     include it as an image in the "ex1.php" file.</h3>
 
     <img src="Images/Docker_page.png" alt="Docker environment">
+<?php include 'footer.php'?>
 </body>
 </html>
-<?php include 'footer.php'?>
