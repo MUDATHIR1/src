@@ -2,9 +2,10 @@
 //what to do with the data collected in the form
 include 'header.php';
 
-$Result = $_POST["Firstname", "Lastname"];
+$Firstname = $_POST["Firstname"];
+$Lastname = $_POST["Lastname"];
 
-echo "Hello: " . $Result . " <br> You are welcome to my site.";
+echo "Hello: " . $Firstname . " " . $Lastname . "<br> You are welcome to my site.";
 
 include 'footer.php';
 ?>
