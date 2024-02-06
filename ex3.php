@@ -13,7 +13,7 @@ collect the user’s Firstname and Lastname.
  Use the echo statement to print “Hello [Firstname] [Lastname],
 ' You are welcome to my site.” inside an h3</h3>
 
-<form action="">
+<form method="post" action="process.php">
 Fname: <input type="text" Fname = "Fisrtname" required> <br><br>
 Lname: <input type="text" Lname= "Lastname" required> <br><br>
 </form>
