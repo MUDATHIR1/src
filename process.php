@@ -1,5 +1,6 @@
 <?php
 //what to do with the data collected in the form
+$title = "Your information"
 include 'header.php';
 
 $Firstname = $_POST["Firstname"];
