@@ -31,7 +31,7 @@
           <a class="nav-link" href="http://localhost:81/src/Mudathir_task2/new.php#">Link 2</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Link3</a>
+          <a class="nav-link" href="ex3.php">Link3</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Link4</a>
