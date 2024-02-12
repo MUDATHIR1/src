@@ -1,7 +1,6 @@
 <?php
 $title = "Registration Form";
-include 'headers.php'?>
-<?php include 'header_2.php'?>
+include 'header.php'?>
 
 <form method="post" action="login(Not used).php">
 Username: <input type="text" name="registration_id" required> <br><br>
@@ -12,4 +11,4 @@ Contact: <input type="number" name="contact_no" >
 <input type="submit" value="submit">
 </form>
 
-<?php include 'footers.php'?>
+<?php include 'footer.php'?>
