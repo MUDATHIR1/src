@@ -1,6 +1,6 @@
 <?php
 $title = "Registration Form";
-include 'header.php'?>
+include 'header_2.php'?>
 
 <form method="post" action="login(Not used).php">
 Username: <input type="text" name="registration_id" required minlength="4"> <br><br>
